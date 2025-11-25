@@ -104,4 +104,5 @@ body{
 .empty { text-align:center;color:var(--muted);padding:28px;border-radius:8px;border:1px dashed rgba(255,255,255,0.03); }
 .footer { display:flex;justify-content:space-between;align-items:center;margin-top:14px;color:var(--muted);font-size:13px; }
 .filter-btn { background:transparent;border-radius:8px;padding:8px 10px;border:1px solid rgba(255,255,255,0.03);cursor:pointer;color:var(--muted) }
-.filter-btn.active { border-color:rgba(255,255,255,0.06); color:var(--text) }
+.filter-btn.active { border-color:rgba(255,255,255,0.06); color:var(--text)}
+
