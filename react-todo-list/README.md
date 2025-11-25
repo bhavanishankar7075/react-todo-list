@@ -6,7 +6,7 @@
 
 ---
 
-## ✅ Summary (what this submission contains)
+##  Summary (what this submission contains)
 - A modern, responsive To-Do app built with **Vite** and **React** (functional components).
 - Key components: `App`, `Header`, `ToDoList`, `ToDoItem`.
 - Implements required behaviors: **Add**, **List** (with `.map()` + unique `key`), **Toggle complete**, **Edit**, **Delete**.
